@@ -1,0 +1,34 @@
+.button{
+  width: 200%;
+}
+
+.Navbar{
+  padding: 2% 8%;
+  
+
+}
+.logo{
+  float: left;
+  margin-right: 1%;
+}
+body{
+  margin: 0;
+}
+.conceptify{
+  width: 116px;
+  height: 30px;
+
+  font-family: 'General Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+
+}
+.frame9{
+  width: 40%;
+}
+
+.home{
+  margin: 0 auto;
+
+}
